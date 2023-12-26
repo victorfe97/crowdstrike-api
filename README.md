@@ -1,0 +1,1 @@
+Atualmente estou estudando python para consumo de APIs, e com isso gostaria de está compartilhando um codigo simples, totalmente comentado, para iniciantes, entendam a logica de como é feito o consumo de APIs.
